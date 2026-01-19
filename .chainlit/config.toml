@@ -94,10 +94,12 @@ reaction_on_message_received = false
 # Name of the assistant.
 name = "Guru.AI"
 
+default_avatar_file_url = "/public/guru.png"
+
 
 [UI.theme.logo]
-light = "/public/favicon.png"
-dark = "/public/favicon.png"
+light = "/public/guru.png"
+dark = "/public/guru.png"
 
 # default_theme = "dark"
 
@@ -149,7 +151,8 @@ alert_style = "classic"
 logo_file_url = ""
 
 # Load assistant avatar image directly from URL.
-default_avatar_file_url = ""
+
+
 
 # Specify a custom build directory for the frontend.
 # This can be used to customize the frontend code.
