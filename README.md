@@ -21,7 +21,7 @@ Guru isn't just a LLM that can read back certain scripture, he is a steward of m
 
 ## Demonstration 📽️
 
-[![Watch the video]](https://raw.githubusercontent.com/Vsingh1012/Guru-AI/demonstration.mov)
+[Click to watch demonstration!]([url](https://drive.google.com/file/d/1Ql3iRk2ZJtmqxaMl55VglrgAsld6rXh_/view?usp=drive_link))
 
 
 
