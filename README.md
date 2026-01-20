@@ -4,8 +4,8 @@
 
 Guru.AI is an all-encompassing tool to serve your needs as a disciple of Dharma!
 
-Trained with over 30,000 verses of divine spiritual knowledge from three of the holiest texts in Hindu theology, Guru is well-equipped to support your every step throughout the journey to explore spirituality.
-Serving as an instructor, a friend, as well as a therapist, Guru will answer any quesstions in an understanding and friendly manner, from providing insights on specific verses of Hindu holy texts to serving as a tool to supplement your emotional needs.
+Trained with over 30,000 verses of divine spiritual knowledge from Hindu theology, Guru is well-equipped to support your every step throughout the journey to explore spirituality.
+Serving as an instructor, a friend, as well as a therapist, Guru will answer any questions in an understanding and warm manner, from providing insights on specific verses of Hindu holy texts to serving as a tool to supplement your emotional needs.
 
 Guru also cites his sources, showing accurate portayals and interpretations of the holy texts that he references!
 
